@@ -1,0 +1,15 @@
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\bin\Debug\net8.0\Class1th.exe
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\bin\Debug\net8.0\Class1th.deps.json
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\bin\Debug\net8.0\Class1th.runtimeconfig.json
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\bin\Debug\net8.0\Class1th.dll
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\bin\Debug\net8.0\Class1th.pdb
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.AssemblyInfoInputs.cache
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.AssemblyInfo.cs
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.csproj.CoreCompileInputs.cache
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.sourcelink.json
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.dll
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\refint\Class1th.dll
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.pdb
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\Class1th.genruntimeconfig.cache
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\Class1th\obj\Debug\net8.0\ref\Class1th.dll

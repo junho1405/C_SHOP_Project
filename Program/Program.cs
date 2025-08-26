@@ -1,37 +1,65 @@
 ﻿
+using System.Collections;
+using System.Collections.Generic;
+using System.Numerics;
+using System.Xml.Linq;
+
 namespace Program
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            #region 박싱
-            //// 각 형식의 데이터를 참조 형식으로 변환하는 과정입니다.
-            //int value = 100;
-            //object generic = value;
-
-            //Console.WriteLine("value : "+ value);
-            //Console.WriteLine("generic : " + generic);
+            #region 콜렉션         //
+            //List<int> list = new List<int>();   
+            //list.Add(10); //10
+            //list.Add(20); //20
+            //list.Add(30); //30
+            //list.Add(40); //30
+            //list.Add(50); //30
+            //
+            //list.Remove(40);
+            //list.Insert(3,75);
+            //
+            //foreach(int element in list)
+            //{
+            //    Console.WriteLine(element);
+            //}
             #endregion
-            #region 언박싱
-            //// 참조 형식의 데이터를 값 형식으로 반환하는 과정입니다.
-            //int box = (int)generic;
-            //Console.WriteLine("box : " + box);
+            #region Dictionary
+            Dictionary<string, int> dictionary = new Dictionary<string, int>();
+
+            int money = 0;
+            dictionary.Add("Doran's Blade",450);
+            dictionary.Add("BigFucking Swored",1300);
+            dictionary.Add("Randuin's Omen",2700);
+
+            //foreach (var element in dictionary)
+            //{
+            //    Console.WriteLine("KEY : "+$"{element.Key}");
+            //    Console.WriteLine("VALUE : "+$"{element.Value}");
+            //}
+
+            string key = "Doran's ring";
+            if (dictionary.TryGetValue(key, out money))
+            {
+                money = dictionary[key];
+            }
+            else
+            {
+                dictionary.Add(key, 400);
+            }
+            Console.WriteLine("Money : "+ money);
+            foreach (var element in dictionary)
+            {
+                Console.WriteLine("KEY : "+$"{element.Key}");
+                Console.WriteLine("VALUE : "+$"{element.Value}");
+            }
+
+
+
+
             #endregion
-            utillity Utillity = new utillity();
-            Utillity.Pause();
-
-            int next = 10;
-            int previous = 0;
-
-            Utillity.Swap(ref next, ref previous);
-            Console.WriteLine("next 변수의 값 : " + next);
-            Console.WriteLine("previous 변수의 값 : " + previous);
-
-            int num = -40;
-            Utillity.Absolute(num);
-            Console.WriteLine("Absolute의 값 : " + Utillity.Absolute(in num));
         }
-        
     }
 }

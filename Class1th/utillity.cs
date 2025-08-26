@@ -7,6 +7,16 @@ using System.Xml.Schema;
 
 namespace Program
 {
+    public struct Vector2
+    {
+        public int x;
+        public int y;
+        public Vector2(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+    }
     internal class utillity
     {
         private int data;
@@ -26,7 +36,11 @@ namespace Program
             return value < 0 ? -value : value;
             //if (value < 0) Console.WriteLine("절대값 : " + (value)*-1);
             //if (value > 0) Console.WriteLine("절대값 : " + value);
-
         }
+            public void Magnitude(Vector2 vector2, out float length)
+            {
+                length =(float)Math.Sqrt(vector2.x * vector2.x + vector2.y * vector2.y);
+            }
     }
 }
+
