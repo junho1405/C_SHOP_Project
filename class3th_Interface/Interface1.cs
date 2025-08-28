@@ -9,6 +9,7 @@ namespace Program
 {
     internal interface Interface1
     {
+        void Activate();
         public void Stells();
     }
 }

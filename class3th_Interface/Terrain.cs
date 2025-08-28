@@ -19,7 +19,7 @@ namespace Program
             this.height = height;
         }
 
-        public abstract void Activate();
+        public abstract void Activate();//이거 넣었으면 다른곳에 전부 상속시켜줘야 에러가 안남
 
         public abstract void Description();
         

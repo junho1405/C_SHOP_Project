@@ -5,28 +5,35 @@ namespace Program
 {
     internal class Program
     {
-       
-
         static void Main(string[] args)
         {
-            #region 추상클래스
-            // 직접 생성할 수는 없지만, 다른 클래스가 상속받아 구체적인 기능을 만들 수
-            // 있도록 설계되어 있는 클래스입니다.
+            #region 단일책임원칙
+            // 클래스의 구성 단위가 하나의 책임만 가질 수 있도록
+            // 설계해야하는 원칙입니다.
+            //Quest quest01 = new Quest("패링연습", "패링을 성공하세요.", new Reword(300,500));
+            //Quest quest02 = new Quest("전투연습", "적을 처치하세요.", new Reword(750, 2500));
+            //Quest quest03 = new Quest("회피연습", "회피를 성공하세요.", new Reword(500, 1500));
+            //
+            //List<Quest> quests = new List<Quest>();
+            //quests.Add(quest01);
+            //quests.Add(quest02);
+            //quests.Add(quest03);
+            //// 퀘스트를 넣는 배열을 만든 뒤에 그 배열에 퀘스트 추가
+            //
+            //for (int i = 0; i < quests.Count; i++)
+            //{
+            //    quests[i].printf();
+            //}
+            #endregion
+            #region 개방 폐쇄 원칙
+            // 소프트웨어의 구성 요소는 확장에는 열려 있어야 하고, 변경에는 닫혀 있어야 한다. 
             // 
 
-            Terrain terrain = new Forest(20,50);
-            terrain.Description();
+            Enchant enchant = new Enchant();
+            enchant.Enchance(new Item("Sword", 10, 5, 0));
+            enchant.Enchance(new Item("Necklace", 1, 1, 10));
+            enchant.Enchance(new Item("Shose", 0, 20, 1));
 
-            terrain = new Mountain(20,40);
-            terrain.Description();
-
-            terrain = new Desert(5,10);
-            terrain.Description();
-            ((Interface1)terrain).Stells();
-
-            terrain = new Swamp(30,50);
-            ((Interface1)terrain).Stells();
-            terrain.Description();
 
 
             #endregion

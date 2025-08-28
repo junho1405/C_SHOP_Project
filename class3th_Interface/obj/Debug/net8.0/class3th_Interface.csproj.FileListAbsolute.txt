@@ -1,0 +1,15 @@
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\bin\Debug\net8.0\class3th_Interface.exe
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\bin\Debug\net8.0\class3th_Interface.deps.json
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\bin\Debug\net8.0\class3th_Interface.runtimeconfig.json
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\bin\Debug\net8.0\class3th_Interface.dll
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\bin\Debug\net8.0\class3th_Interface.pdb
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.AssemblyInfoInputs.cache
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.AssemblyInfo.cs
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.csproj.CoreCompileInputs.cache
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.sourcelink.json
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.dll
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\refint\class3th_Interface.dll
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.pdb
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\class3th_Interface.genruntimeconfig.cache
+C:\Users\OFFICE\Desktop\junho\C_SHOP_Project\class3th_Interface\obj\Debug\net8.0\ref\class3th_Interface.dll
