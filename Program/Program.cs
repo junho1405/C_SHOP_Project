@@ -29,13 +29,33 @@ namespace Program
             // 소프트웨어의 구성 요소는 확장에는 열려 있어야 하고, 변경에는 닫혀 있어야 한다. 
             // 
 
-            Enchant enchant = new Enchant();
-            enchant.Enchance(new Item("Sword", 10, 5, 0));
-            enchant.Enchance(new Item("Necklace", 1, 1, 10));
-            enchant.Enchance(new Item("Shose", 0, 20, 1));
+            //Enchant enchant = new Enchant();
+            //enchant.Enchance(new Sword());
+            //enchant.Enchance(new Necklace());
+            //enchant.Enchance(new Shose());
+
+            //enchant.Enchance(new Item("Sword", 10, 5, 0));
+            //enchant.Enchance(new Item("Necklace", 1, 1, 10));
+            //enchant.Enchance(new Item("Shose", 0, 20, 1));
 
 
 
+            #endregion
+            #region 인터페이스 분리원칙
+            // 클래스가 자신이 사용하지 않는 함수에 의존하지 않도록
+            // 설계되어야 하는 원칙입니다. 
+            // 
+            // (상인, 공주, 용병)-(교환, 도주, 공격)
+
+            Princess princess = new Princess();
+            princess.Move();
+
+            Dragoon dragoon = new Dragoon();
+            dragoon.Move();
+            dragoon.ATK(88);
+
+            Shop shop = new Shop();
+            shop.Trade();
             #endregion
         }
     }

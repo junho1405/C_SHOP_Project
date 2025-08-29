@@ -9,16 +9,14 @@ namespace Program
 {
     internal class Item
     {
-        private string name;
-
-
-        private int Strength;
-        public int Dexterity;
-        public int Intelligente;
-        public string Name { get { return name; } }
-        public int strength { get { return Strength; } set { Strength = value; }}
-        public int dexterity { get { return Dexterity; } set { Dexterity = value; } }
-        public int intelligente { get { return Intelligente; } set { Intelligente = value; } }
+        protected string name;  
+        protected int strength;
+        protected int dexterity;
+        protected int intelligente;
+        //public string Name { get { return name; } }
+        //public int strength { get { return Strength; } set { Strength = value; }}
+        //public int dexterity { get { return Dexterity; } set { Dexterity = value; } }
+        //public int intelligente { get { return Intelligente; } set { Intelligente = value; } }
 
         public Item(string name, int strength, int dexterity, int intelligente)
         {

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\enchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:enchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\dragoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:dragoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\atk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:atk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|c:\\users\\office\\desktop\\junho\\c_shop_project\\program\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4006D4-1400-4B57-9980-53FD59DFFA2D}|Program.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enchant.cs",
-              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Enchant.cs",
-              "RelativeDocumentMoniker": "Enchant.cs",
-              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Enchant.cs",
-              "RelativeToolTip": "Enchant.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop.cs",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Shop.cs",
+              "RelativeToolTip": "Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:13:45.286Z",
+              "WhenOpened": "2025-08-29T06:08:22.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Princess.cs",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Princess.cs",
+              "RelativeDocumentMoniker": "Princess.cs",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Princess.cs",
+              "RelativeToolTip": "Princess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:08:11.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dragoon.cs",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Dragoon.cs",
+              "RelativeDocumentMoniker": "Dragoon.cs",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Dragoon.cs",
+              "RelativeToolTip": "Dragoon.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:07:44.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Item.cs",
-              "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAAIAAAAAAAAAA==",
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Trade.cs",
+              "RelativeDocumentMoniker": "Trade.cs",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Trade.cs",
+              "RelativeToolTip": "Trade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:06:05.706Z",
+              "WhenOpened": "2025-08-29T06:07:08.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:06:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ATK.cs",
+              "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\ATK.cs",
+              "RelativeDocumentMoniker": "ATK.cs",
+              "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\ATK.cs",
+              "RelativeToolTip": "ATK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:06:36.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\OFFICE\\Desktop\\junho\\C_SHOP_Project\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAEwDYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:37:39.27Z",
+              "WhenOpened": "2025-08-29T05:29:10.236Z",
               "EditorCaption": ""
             }
           ]

@@ -8,20 +8,21 @@ namespace Program
 {
     internal class Enchant
     {
-        public void Enchance(Item item)
+        public void Enchance(Enchantable item)
         {
-            if(item.Name == "Sword")
-            {
-                item.strength = 5;
-            }
-            else if(item.Name == "Necklace")
-            {
-                item.intelligente = 5;
-            }
-            else if(item.Name == "Shoes")
-            {
-                item.dexterity = 10;
-            }
+            item.Upgrade();
+            //if(item.Name == "Sword")
+            //{
+            //    item.strength = 10;
+            //}
+            //else if(item.Name == "Necklace")
+            //{
+            //    item.intelligente = 10;
+            //}
+            //else if(item.Name == "Shoes")
+            //{
+            //    item.dexterity = 10;
+            //}
         }
     }
 }
